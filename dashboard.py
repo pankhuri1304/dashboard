@@ -134,7 +134,7 @@ def navigation_bar():
             col1, col2 = st.columns(2)
             with col1:
                 st.write(
-                    "<center>" '<a href="https://isha-agarwal-19-summer-medalsummer-ch6etc.streamlit.app/" target="_blank"> <img src= "https://e1.pxfuel.com/desktop-wallpaper/204/776/desktop-wallpaper-boxing-ring-virtual-set-boxing-ring-background.jpg" style="width:100%;height:280px;" > </a>',
+                    "<center>" '<a href="https://summerr-analysis.onrender.com" target="_blank"> <img src= "https://e1.pxfuel.com/desktop-wallpaper/204/776/desktop-wallpaper-boxing-ring-virtual-set-boxing-ring-background.jpg" style="width:100%;height:280px;" > </a>',
                     unsafe_allow_html=True)
             with col2:
                 st.markdown(
@@ -146,7 +146,7 @@ def navigation_bar():
             col1, col2 = st.columns(2)
             with col1:
                 st.write(
-                    "<center>" '<a href="https://isha-agarwal-19-winter-medalwinter-spua7v.streamlit.app/", target="_blank"> <img src= "https://www.usfigureskating.org/sites/default/files/styles/flexible_hero_image/public/media-library/GettyImages-1367630025.jpg?itok=oUjx_5nT" style="width:100%;height:280px;" > </a>',
+                    "<center>" '<a href="https://winter-analysis-3ozg.onrender.com", target="_blank"> <img src= "https://www.usfigureskating.org/sites/default/files/styles/flexible_hero_image/public/media-library/GettyImages-1367630025.jpg?itok=oUjx_5nT" style="width:100%;height:280px;" > </a>',
                     unsafe_allow_html=True)
             with col2:
                 st.markdown(
@@ -158,7 +158,7 @@ def navigation_bar():
             col1, col2 = st.columns(2)
             with col1:
                 st.write(
-                    "<center>" '<a href="https://isha-agarwal-19-overall-medaloverall-ribyis.streamlit.app/", target="_blank"> <img src= "https://e0.pxfuel.com/wallpapers/121/708/desktop-wallpaper-3d-political-world-map-blue-brickwall-map-of-world-countries-creative-world-maps-3d-art-3d-world-map-world-map-concepts-world-map-with-flags.jpg" style="width:100%;height:280px;" > </a>',
+                    "<center>" '<a href="https://overall-analysis-5on4.onrender.com", target="_blank"> <img src= "https://e0.pxfuel.com/wallpapers/121/708/desktop-wallpaper-3d-political-world-map-blue-brickwall-map-of-world-countries-creative-world-maps-3d-art-3d-world-map-world-map-concepts-world-map-with-flags.jpg" style="width:100%;height:280px;" > </a>',
                     unsafe_allow_html=True)
 
             with col2:
@@ -347,20 +347,20 @@ def navigation_bar():
             st.markdown("""<p class='about'>The Summer Olympics is a global multi-sport event that takes place every four years, and it is widely regarded as one of the world's most prestigious athletic competitions. The modern Summer Olympics began in Athens, Greece, in 1896, and since then, it has grown to become one of the most popular sporting events in the world. The Games typically feature a wide range of sports, including athletics, swimming, gymnastics, cycling, volleyball, basketball, and many others.
             The Summer Olympics are governed by the International Olympic Committee (IOC), which oversees the planning and execution of the Games. The host city for each Olympics is selected several years in advance, and the planning process can take many years. The Olympics are a massive undertaking, involving thousands of athletes, coaches, officials, and volunteers from around the world.</p>""",unsafe_allow_html=True)
             st.markdown("""<p class='about'>One of the most notable features of the Summer Olympics is the Opening Ceremony, which marks the official start of the Games. The Opening Ceremony typically features a parade of athletes from each participating country, as well as cultural performances and the lighting of the Olympic flame. The Closing Ceremony marks the end of the Games and features a similar celebration of the athletes and their achievements.The Summer Olympics are a major international event that attracts millions of viewers from around the world. They are an opportunity for athletes to compete at the highest level of their sport, and for countries to come together and celebrate their shared love of sport and competition. Beyond the athletic competition, the Olympics also provide an opportunity for people from different cultures and backgrounds to come together and build connections and understanding. Overall, the Summer Olympics are a celebration of sport, culture, and international cooperation.</p>""", unsafe_allow_html=True)
-            st.markdown("""<p class= 'about'>For more details<a href=''> Click here</a></p>""",unsafe_allow_html=True)
+            st.markdown("""<p class= 'about'>For more details<a href='https://summerr-analysis.onrender.com'> Click here</a></p>""",unsafe_allow_html=True)
 
         if selected == "Winter Olympics":
             st.markdown("<center><h1 class='ab-name'>About Winter Olympics</h1>", unsafe_allow_html=True)
             st.markdown("""<p class='about'>The Winter Olympics is a multi-sport event that takes place every four years, and it focuses on winter sports such as skiing, snowboarding, ice skating, and ice hockey. The first Winter Olympics were held in Chamonix, France, in 1924, and since then, the event has grown to become a major international sporting competition.
             Like the Summer Olympics, the Winter Olympics are governed by the International Olympic Committee (IOC) and involve athletes from around the world competing in a wide range of sports. The host city for each Winter Olympics is selected several years in advance, and the planning process can take many years. The Winter Olympics are a massive undertaking, involving thousands of athletes, coaches, officials, and volunteers from around the world.The Winter Olympics have a unique character and spirit that sets them apart from the Summer Olympics. The events often take place in mountainous areas, and the athletes are required to compete in cold, snowy, and sometimes challenging conditions. The Winter Olympics also showcase a different set of sports and events, such as cross-country skiing, ski jumping, and biathlon, that are not typically featured in the Summer Olympics.</p>""", unsafe_allow_html=True)
-            st.markdown("""<p class= 'about'>For more details<a href=''> Click here</a></p>""", unsafe_allow_html=True)
+            st.markdown("""<p class= 'about'>For more details<a href='https://winter-analysis-3ozg.onrender.com'> Click here</a></p>""", unsafe_allow_html=True)
 
         if selected == "Overall Analysis":
             st.markdown("<center><h1 class='ab-name'>About Overall Analysis</h1>", unsafe_allow_html=True)
             st.markdown("""<p class='about'>The Summer and Winter Olympics are two major international multi-sport events that take place every four years. The Summer Olympics focus on sports such as athletics, swimming, gymnastics, cycling, and basketball, while the Winter Olympics focus on sports such as skiing, snowboarding, ice skating, and ice hockey. Both events are governed by the International Olympic Committee (IOC) and involve athletes from around the world competing at the highest level of their respective sports.The host city for each Olympics is selected several years in advance, and the planning process can take many years. </p>""",unsafe_allow_html=True)
             st.markdown("""<p class='about'>The Olympics are a massive undertaking, involving thousands of athletes, coaches, officials, and volunteers from around the world. Both events feature an Opening Ceremony that typically includes a parade of athletes from each participating country, as well as cultural performances and the lighting of the Olympic flame. The Closing Ceremony marks the end of the Games and features a similar celebration of the athletes and their achievements.
             The Summer and Winter Olympics are major international events that attract millions of viewers from around the world. They provide an opportunity for athletes to compete at the highest level of their sport, for countries to come together and celebrate their shared love of sport and competition, and for people from different cultures and backgrounds to build connections and understanding. Overall, the Summer and Winter Olympics are celebrations of sport, culture, and international cooperation that hold a special place in the hearts of sports enthusiasts around the world.</p>""",unsafe_allow_html=True)
-            st.markdown("""<p class= 'about'>For more details<a href=''> Click here</a></p>""", unsafe_allow_html=True)
+            st.markdown("""<p class= 'about'>For more details<a href='https://overall-analysis-5on4.onrender.com'> Click here</a></p>""", unsafe_allow_html=True)
 
  # Bottom to top button
     st.markdown('''
